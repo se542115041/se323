@@ -7,6 +7,7 @@ public class se323activity {
 		System.out.println("hello!!"); // I changed the code
 		System.out.println("oh man");
 		System.out.println("ggwp");
+		System.out.println("test");
 	}
 
 }
