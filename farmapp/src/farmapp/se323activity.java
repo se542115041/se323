@@ -6,6 +6,7 @@ public class se323activity {
 		// TODO Auto-generated method stub
 		System.out.println("hello!!"); // I changed the code
 		System.out.println("oh man");
+		System.out.println("ggwp");
 	}
 
 }
