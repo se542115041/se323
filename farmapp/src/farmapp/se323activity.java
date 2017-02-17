@@ -8,6 +8,7 @@ public class se323activity {
 		System.out.println("oh man");
 		System.out.println("ggwp");
 		System.out.println("test");
+		System.out.println("test");
 	}
 
 }
