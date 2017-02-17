@@ -7,7 +7,10 @@ public class se323activity {
 		System.out.println("hello!!"); // I changed the code
 		System.out.println("oh man");
 		System.out.println("ggwp");
+<<<<<<< HEAD
 		System.out.println("ggwp");
+=======
+>>>>>>> branch 'master' of https://github.com/se542115041/se323.git
 	}
 
 }
